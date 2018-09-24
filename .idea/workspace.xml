@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f353f8e4-ef9c-4f16-9116-52d6079cef05" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="constructionCrew.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/2.ConstructionCrew/constructionCrew.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="carFactory.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/3.CarFactory/carFactory.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="еxtensibleОbject.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/4.ExtensibleОbject/еxtensibleОbject.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="stringExtension.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/5.StringExtension/stringExtension.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-79" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sortedList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/6.SortedList/sortedList.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="dom-traversal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/7.DOMTraversal/dom-traversal.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="domTraversal.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/7.DOMTraversal/domTraversal.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="bug-tracker.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/BugTracker/bug-tracker.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="requireValidator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/1.RequestValidator/requireValidator.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="evenOrOdd.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/2.EvenOrOdd/evenOrOdd.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/abab/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/array-equal/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/assertion-error/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/browser-process-hrtime/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/chai/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/check-error/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/cssom/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/cssstyle/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/data-urls/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/deep-eql/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/domexception/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/escodegen/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/fast-levenshtein/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/get-func-name/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/html-encoding-sniffer/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/jsdom/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/left-pad/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/lodash.sortby/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/nwsapi/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/optionator/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/pathval/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/pn/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/prelude-ls/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/request-promise-core/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/request-promise-native/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/request/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/request/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/stealthy-require/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/symbol-tree/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/tough-cookie/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/tr46/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/type-check/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/type-detect/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/w3c-hr-time/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/webidl-conversions/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/whatwg-encoding/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/whatwg-mimetype/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/whatwg-url/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/node_modules/xml-name-validator/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1152" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="1.ArrayExtension" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="2.ConstructionCrew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="3.CarFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="4.ExtensibleОbject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="5.StringExtension" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="6.SortedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="7.DOMTraversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="BugTracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="jQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Unit Testing and Error Handling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Unit Testing and Error Handling" type="462c0819:PsiDirectoryNode" />
+              <item name="1.RequestValidator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Task JavaScript Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced cod" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Advanced Unit Testing and Error Handling" type="462c0819:PsiDirectoryNode" />
+              <item name="2.EvenOrOdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f353f8e4-ef9c-4f16-9116-52d6079cef05" name="Default" comment="" />
+      <created>1537802071971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537802071971</updated>
+      <workItem from="1537802073123" duration="1774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1774000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Exam 26 Apr/1.BusRoute/busRoute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Exam 26 Apr/2.SubscriptionCard/subscriptionCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Exam 26 Apr/3.LineManager/lineManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Exam 26 Apr/4.PublicTransport/solution.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Exam 26 Apr/4.PublicTransport/publicTransport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Functions, Object Composition, Revealing Modules/2.ArgumentInfo/argumentInfo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Functions, Object Composition, Revealing Modules/3.FunctionalSum/functionalSum.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Functions, Object Composition, Revealing Modules/4.PersonalBMI/personalBmi.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Functions, Object Composition, Revealing Modules/5.VectorMath/vectorMath.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Functions, Object Composition, Revealing Modules/6.BreakfastRobot/breakfastRobot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-946" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Functions, Object Composition, Revealing Modules/7.MonkeyPatcher/monkeyPatcher.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Functions, Object Composition, Revealing Modules/8.EuclidAlgorithm/euclidAlgorithm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/2.Timer/timer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/2.Timer/timer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/3.BookGenerator/book-generator.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/4.FormValidation/formValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-419">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/5.DOMSearch/dom-search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/6.Calendar/calendar.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/6.Calendar/calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1099" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/7.WikiParser/wiki-parser.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/7.WikiParser/wikiParser.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Functions, Object Composition, Revealing Modules/1.SortArray/sortArray.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/1.IncrementCounter/incrementCounter.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced jQuery, DOM and Events/1.IncrementCounter/incrementCounter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/1.ArrayExtension/arrayExtension.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/2.ConstructionCrew/constructionCrew.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/3.CarFactory/carFactory.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/4.ExtensibleОbject/еxtensibleОbject.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/5.StringExtension/stringExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/6.SortedList/sortedList.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/7.DOMTraversal/dom-traversal.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/7.DOMTraversal/domTraversal.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Objects, Inheritance and Prototypes/BugTracker/bug-tracker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/1.RequestValidator/requireValidator.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task JavaScript Advance/JavaScript Advanced cod/JavaScript Advanced Unit Testing and Error Handling/2.EvenOrOdd/evenOrOdd.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

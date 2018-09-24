@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c63c3463-a351-4e25-ae7d-2ab30625b4ca" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="constructionCrew.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.ConstructionCrew/constructionCrew.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="еxtensibleОbject.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.ExtensibleОbject/еxtensibleОbject.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carFactory.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.CarFactory/carFactory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="45" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stringExtension.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.StringExtension/stringExtension.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sortedList.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.SortedList/sortedList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="domTraversal.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.DOMTraversal/domTraversal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dom-traversal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7.DOMTraversal/dom-traversal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bug-tracker.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BugTracker/bug-tracker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bugTracker.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BugTracker/bugTracker.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="67" column="53" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-3.3.1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jQuery/jquery-3.3.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="7804" column="16" selection-start-line="7804" selection-start-column="8" selection-end-line="7804" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addClass</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1.ArrayExtension/arrayExtension.js" />
+        <option value="$PROJECT_DIR$/2.ConstructionCrew/constructionCrew.js" />
+        <option value="$PROJECT_DIR$/4.ExtensibleОbject/еxtensibleОbject.js" />
+        <option value="$PROJECT_DIR$/3.CarFactory/carFactory.js" />
+        <option value="$PROJECT_DIR$/5.StringExtension/stringExtension.js" />
+        <option value="$PROJECT_DIR$/6.SortedList/sortedList.js" />
+        <option value="$PROJECT_DIR$/jQuery/jquery-3.3.1.js" />
+        <option value="$PROJECT_DIR$/7.DOMTraversal/domTraversal.html" />
+        <option value="$PROJECT_DIR$/7.DOMTraversal/dom-traversal.js" />
+        <option value="$PROJECT_DIR$/BugTracker/bugTracker.js" />
+        <option value="$PROJECT_DIR$/BugTracker/bug-tracker.js" />
+        <option value="$PROJECT_DIR$/BugTracker/bugTracker.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="1.ArrayExtension" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="2.ConstructionCrew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="3.CarFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="4.ExtensibleОbject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="5.StringExtension" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="6.SortedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="7.DOMTraversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="BugTracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript Advanced Objects, Inheritance and Prototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="jQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaScript Advanced Unit Testing and Error Handling" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.sortedList.js">
+    <configuration name="carFactory.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="carFactory.js" working-dir="$PROJECT_DIR$/3.CarFactory" />
+    <configuration name="constructionCrew.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="constructionCrew.js" working-dir="$PROJECT_DIR$/2.ConstructionCrew" />
+    <configuration name="sortedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="sortedList.js" working-dir="$PROJECT_DIR$/6.SortedList" />
+    <configuration name="stringExtension.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="stringExtension.js" working-dir="$PROJECT_DIR$/5.StringExtension" />
+    <configuration name="еxtensibleОbject.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="еxtensibleОbject.js" working-dir="$PROJECT_DIR$/4.ExtensibleОbject" />
+    <list>
+      <item itemvalue="Node.js.constructionCrew.js" />
+      <item itemvalue="Node.js.еxtensibleОbject.js" />
+      <item itemvalue="Node.js.carFactory.js" />
+      <item itemvalue="Node.js.stringExtension.js" />
+      <item itemvalue="Node.js.sortedList.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.sortedList.js" />
+        <item itemvalue="Node.js.stringExtension.js" />
+        <item itemvalue="Node.js.carFactory.js" />
+        <item itemvalue="Node.js.еxtensibleОbject.js" />
+        <item itemvalue="Node.js.constructionCrew.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c63c3463-a351-4e25-ae7d-2ab30625b4ca" name="Default" comment="" />
+      <created>1530363291219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530363291219</updated>
+      <workItem from="1530363292441" duration="10232000" />
+      <workItem from="1530430802696" duration="10483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20715000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="1040" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959743" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.ArrayExtension/arrayExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.ConstructionCrew/constructionCrew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.ExtensibleОbject/еxtensibleОbject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.CarFactory/carFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.StringExtension/stringExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.ArrayExtension/arrayExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.ConstructionCrew/constructionCrew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.ExtensibleОbject/еxtensibleОbject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.CarFactory/carFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.StringExtension/stringExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.SortedList/sortedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="7804" column="16" selection-start-line="7804" selection-start-column="8" selection-end-line="7804" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.DOMTraversal/domTraversal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.DOMTraversal/dom-traversal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BugTracker/bugTracker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="67" column="53" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BugTracker/bug-tracker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
